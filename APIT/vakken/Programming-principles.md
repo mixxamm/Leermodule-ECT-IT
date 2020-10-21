@@ -1,4 +1,4 @@
-# [] Oefeningen Programming Principles
+# Oefeningen Programming Principles
 - [Hoofdstuk 1](oefeningen-PP/Hfds1.md)
 - [Hoofdstuk 2](oefeningen-PP/Hfds2.md)
 - [Hoofdstuk 3](oefeningen-PP/Hfds3.md)

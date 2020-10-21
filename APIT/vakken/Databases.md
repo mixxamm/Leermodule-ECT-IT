@@ -1,4 +1,4 @@
-# [] Oefeningen Databases
+# Oefeningen Databases
 - [Deel 1](Oefeningen-database/Deel1.md)
 - [Deel 2](Oefeningen-database/Deel2.md)
 - [Deel 3](Oefeningen-database/Deel3.md)
