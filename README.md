@@ -1,8 +1,8 @@
 # Elektronica-ICT & Toegepaste informatica
 ## 2020 (Semester 1)
 
-- [Databases](Index/vakken/Databases.md)
-- [Programming-principles](Index/vakken/Programming-principles.md)
-- [Web-technology](Index/vakken/Web-technology.md)
+- [Databases](Index/Vakken/Databases.md)
+- [Programming-principles](Index/Vakken/Programming-principles.md)
+- [Web-technology](Index/Vakken/Web-technology.md)
 
 > STAY SAFE PEOPLE! 
