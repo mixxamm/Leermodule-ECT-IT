@@ -6,4 +6,3 @@
 - [Web-technology](Index/vakken/Web-technology.md)
 
 > STAY SAFE PEOPLE! 
-ùmmmm
