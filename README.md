@@ -7,4 +7,4 @@
 
 > ### STAY SAFE PEOPLE! 
 
-> ##### Moest er een probleem zijn stuur mij dan een berichtje op discord @Yorhades#6892
+> ##### Moest er een probleem zijn, stuur mij dan een berichtje op discord @Yorhades#6892
