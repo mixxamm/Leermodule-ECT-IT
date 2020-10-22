@@ -9,4 +9,8 @@
 - [Hoofdstuk 8](/Index/Oefeningen-PP/Hfdst8.md)
 - [Hoofdstuk 9](/Index/Oefeningen-PP/Hfdst9.md)
 
+<<<<<<< Updated upstream
 [Terug](/README.md)
+=======
+-[Terug](/README.md)
+>>>>>>> Stashed changes
