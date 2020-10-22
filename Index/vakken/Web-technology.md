@@ -4,4 +4,4 @@
 - [Les 3](Oefeningen-web-technology/Les3.md)
 - [Les 4](Oefeningen-web-technology/Les4.md)
 
--[Terug](APIT1/README.md)
+-[Terug](Leermodule-ECT-IT/README.md)
