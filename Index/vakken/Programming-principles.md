@@ -9,4 +9,4 @@
 - [Hoofdstuk 8](oefeningen-PP/Hfds8.md)
 - [Hoofdstuk 9](oefeningen-PP/Hfds9.md)
 
--[Terug](Leermodule-ECT-IT/README.md)
+-[Terug](/README.md)

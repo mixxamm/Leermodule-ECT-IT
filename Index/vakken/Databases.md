@@ -4,4 +4,4 @@
 - [Deel 4](Oefeningen-Databases/Deel4.md)
 - [Deel 5](Oefeningen-Databases/Deel5.md)
 
--[Terug](Leermodule-ECT-IT/README.md)
+-[Terug](/README.md)
