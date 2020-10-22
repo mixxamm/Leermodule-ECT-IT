@@ -4,8 +4,4 @@
 - [Les 3](Oefeningen-web-technology/Les3.md)
 - [Les 4](Oefeningen-web-technology/Les4.md)
 
-<<<<<<< Updated upstream
 [Terug](/README.md)
-=======
--[Terug](/README.md)
->>>>>>> Stashed changes

@@ -4,8 +4,4 @@
 - [Deel 4](/Index/Oefeningen-Databases/Deel4.md)
 - [Deel 5](/Index/Oefeningen-Databases/Deel5.md)
 
-<<<<<<< Updated upstream
 [Terug](/README.md)
-=======
--[Terug](/README.md)
->>>>>>> Stashed changes
