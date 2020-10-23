@@ -58,7 +58,7 @@
         REFERENCES `tblMedewerkers`(`Nr`),
         FOREIGN KEY(`Opleidingscode`),
         REFERENCES `tblOpleidingen`(`Code`)
-);
+    );
 
 ```
 - [Terug](/Index/Oefeningen-Databases/Deel2.md)
