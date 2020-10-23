@@ -12,7 +12,6 @@ Gebruik deze database “Tennis2” bij de volgende oefeningen in deze oefenbund
 
 ```sql
     USE `tennis2`
-
     RENAME TABLE `bestuursleden` TO `tblBestuursleden`;
     RENAME TABLE `boetes` TO `tblBoetes`;
     RENAME TABLE `spelers` To `tblSpelers`;
