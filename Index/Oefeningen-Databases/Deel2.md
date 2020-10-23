@@ -1,4 +1,4 @@
-# Deel 2 Database creatie
+# Deel 2 - Database creatie
 
 - [Oefening 1](Deel2/Oefening1.md)
 - [Oefening 2](Deel2/Oefening2.md)
