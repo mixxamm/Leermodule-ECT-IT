@@ -12,9 +12,9 @@
 ```sql
     CREATE TABLE `AP`.`tblOpleidingen`
     (
-    `Code` VARCHAR(10) PRIMARY KEY,
-    `OMSCHRIJVING` MEDIUMTEXT,
-    `DUUR` varchar(2)
+        `Code` VARCHAR(10) PRIMARY KEY,
+        `OMSCHRIJVING` MEDIUMTEXT,
+        `DUUR` varchar(2)
     );
 ```
 ![Deel6_Oef2_2](/Index/Pictures/Deel2_Oefenbundel6_Oef2_2.PNG)
