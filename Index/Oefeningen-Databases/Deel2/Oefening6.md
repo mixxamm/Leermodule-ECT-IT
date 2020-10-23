@@ -34,7 +34,7 @@
 ```sql
     CREATE TABLE AP.tblMedewerkers
     (
-	    `Nr` MEDIUMINT UNSIGNED  auto_increment,
+	`Nr` MEDIUMINT UNSIGNED  auto_increment,
         `Naam` VARCHAR (100),
         `Adres` VARCHAR (135),
         `AfdelingNr` SMALLINT UNSIGNED,
@@ -49,7 +49,7 @@
 ```sql
     CREATE TABLE tblGevolgdeOpleidingen
     (
-	    `MedewerkerNr` MEDIUMINT UNSIGNED,
+	`MedewerkerNr` MEDIUMINT UNSIGNED,
         `Opleidingscode` VARCHAR (10),
         `Datum` DATE,
         `Voltooid` BIGINT UNSIGNED,
