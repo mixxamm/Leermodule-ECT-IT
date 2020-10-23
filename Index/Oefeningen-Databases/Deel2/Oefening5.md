@@ -7,7 +7,7 @@
 ```
 
 #### 2. Schrijf een SQL-instructie die in de database “AP” een tabel “AFDELING” aanmaakt. De tabel moet aan volgende vereisten voldoen:
-![Deel5_Oef2](/Index/Pictures/Deel5_Oef2.PNG)
+![Deel5_Oef2](/Index/Pictures/Deel2_Oefenbundel5_Oef2.PNG)
 
 ```sql
     CREATE TABLE `AP`.`AFDELING`
