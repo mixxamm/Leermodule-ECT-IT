@@ -1,2 +1,2 @@
 
-[Terug](/Index/Vakken/Programming-principles.md)
+[Terug](../Vakken/Programming-principles.md)

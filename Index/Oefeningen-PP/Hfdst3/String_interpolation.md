@@ -4,4 +4,4 @@
 
 ```
 
-[Terug](/Index/Oefeningen-PP/Hfdst3.md)
+[Terug](../Hfdst3.md)

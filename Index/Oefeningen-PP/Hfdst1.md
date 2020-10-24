@@ -1,9 +1,9 @@
 # Hoofdstuk 1 - De eerste stappen
 
-- [Rommel Zin](/Index/Oefeningen-PP/Hfdst1/Romme_zin.md)
-- [Kleuren veranderen](/Index/Oefeningen-PP/Hfdst1/Kleuren_veranderen.md)
-- [Visitekaart](/Index/Oefeningen-PP/Hfdst1/Visitekaart.md)
+- [Rommel Zin](Hfdst1/Romme_zin.md)
+- [Kleuren veranderen](Hfdst1/Kleuren_veranderen.md)
+- [Visitekaart](Hfdst1/Visitekaart.md)
 
-[Terug](/Index/Vakken/Programming-principles.md)
+[Terug](../Vakken/Programming-principles.md)
 
   
