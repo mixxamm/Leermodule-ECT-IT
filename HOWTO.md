@@ -21,9 +21,11 @@ Daarna is het belangerijk om op **GITHUB** een account aan te maken.
 Als dit gelukt is. Moet je de Github desktop openen en inloggen met jouw account.
 
 Daarna druk je op deze knop:
+
 ![Code drukknop](/Index/Pictures/Code_drukknop.PNG)
 
 Vervolgens druk je op Open met Github Desktop:
+
 ![](/Index/Pictures/Open_with_Github_Desktop.PNG)
 
 Normaal krijg je een venster te zien met "koppeling openen".
