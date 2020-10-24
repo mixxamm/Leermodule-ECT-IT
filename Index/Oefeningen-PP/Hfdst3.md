@@ -7,4 +7,4 @@
 - [Weerstandberkenaar](/Index/Oefeningen-PP/Hfdst3/Weerstandberekenaar.md)
 - [Shell-starter](/Index/Oefeningen-PP/Hfdst3/Shell-starter.md)
 
-[Terug](/Index/vakken/Programming-principles.md)
+[Terug](/Index/Vakken/Programming-principles.md)

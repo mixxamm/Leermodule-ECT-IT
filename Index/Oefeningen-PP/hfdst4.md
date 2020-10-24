@@ -9,4 +9,4 @@
 - [Feestkassa](/Index/Oefeningen-PP/Hfdst4/Feestkassa.md)
 - [Het Orakeltje van Delphi](/Index/Oefeningen-PP/Hfdst4/Het_Orakeltje_van_Delphi.md)
 
-[Terug](/Index/vakken/Programming-principles.md)
+[Terug](/Index/Vakken/Programming-principles.md)
