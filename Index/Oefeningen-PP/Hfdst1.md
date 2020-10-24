@@ -4,6 +4,6 @@
 - [Kleuren veranderen](/Index/Oefeningen-PP/Hfdst1/Kleuren_veranderen.md)
 - [Visitekaart](/Index/Oefeningen-PP/Hfdst1/Visitekaart.md)
 
-[Terug](/Index/vakken/Programming-principles.md)
+[Terug](/Index/Vakken/Programming-principles.md)
 
   

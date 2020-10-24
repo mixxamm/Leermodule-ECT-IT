@@ -9,4 +9,4 @@
 - [Gewicht in space](/Index/Oefeningen-PP/Hfdst2/Gewicht_in_space.md)
 
 
-[Terug](/Index/vakken/Programming-principles.md)
+[Terug](/Index/Vakken/Programming-principles.md)

@@ -6,4 +6,4 @@
 - [Oefening 4](Deel3/Oefening4.md)
 - [Oefening 5](Deel3/Oefening5.md)
 
-[Terug](/Index/vakken/Databases.md)
+[Terug](/Index/Vakken/Databases.md)

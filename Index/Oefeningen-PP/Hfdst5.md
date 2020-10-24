@@ -16,4 +16,4 @@
 - [Enum bij BMI](/Index/Oefeningen-PP/Hfdst5/Enum_bij_BMI.md)
 - [Kleurcode weerstand naar ohm, met enum](/Index/Oefeningen-PP/Hfdst5/Kleurcode_weerstand_naar_ohm,_met_enum.md)
 
-[Terug](/Index/vakken/Programming-principles.md)
+[Terug](/Index/Vakken/Programming-principles.md)
