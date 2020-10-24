@@ -21,9 +21,11 @@ Daarna is het belangerijk om op **GITHUB** een account aan te maken.
 Als dit gelukt is. Moet je de Github desktop openen en inloggen met jouw account.
 
 Daarna druk je op deze knop:
+
 ![Code drukknop](/Index/Pictures/Code_drukknop.PNG)
 
 Vervolgens druk je op Open met Github Desktop:
+
 ![](/Index/Pictures/Open_with_Github_Desktop.PNG)
 
 Normaal krijg je een venster te zien met "koppeling openen".
@@ -32,7 +34,7 @@ Daarna zal Github desktop geopend worden en wordt het project lokaal gekloond.
 
 Als je nu klikt op openen met Visual studio code kan je aanpassing toevoegen en die dan committen via een pull request. Ik kijk die dan na en als die goed is zal ik ze toevoegen.
 
-######Ja mag natuurlijk ook altijd je oplossing naar mij doorsturen als dat gemakkelijker is, maar dit bespaart mij veel werk!
+###### Ja mag natuurlijk ook altijd je oplossing naar mij doorsturen als dat gemakkelijker is, maar dit bespaart mij veel werk!
 
 [Terug](/README.md)
 
