@@ -1,12 +1,13 @@
 # Elektronica-ICT & Toegepaste informatica
+
 ## 2020 (Semester 1)
 
-- [Databases](Index/Vakken/Databases.md)
-- [Programming-principles](Index/Vakken/Programming-principles.md)
-- [Web-technology](Index/Vakken/Web-technology.md)
+- [Databases](./Index/vakken/Databases.md)
+- [Programming-principles](./Index/vakken/Programming-principles.md)
+- [Web-technology](./Index/vakken/Web-technology.md)
 
-> ### STAY SAFE PEOPLE! 
+> Moest er een probleem zijn, stuur mij dan een berichtje op Discord `@Yorhades#6892`
 
-> ##### Moest er een probleem zijn, stuur mij dan een berichtje op discord @Yorhades#6892
+## Ben je nieuw in GitHub? Lees dan zeker [deze pagina](HOWTO.md).
 
-## Ben je nieuw in github? Lees dan zeker [deze pagina](HOWTO.md).
+<p style="color:red;">STAY SAFE PEOPLE! ♥</p>
