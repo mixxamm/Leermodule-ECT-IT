@@ -1,11 +1,12 @@
 # Oefening 6
 
-#### 1. Schrijfde SQL-instructie die tabel AFDELING verwijderd in database AP.
+## 1. Schrijfde SQL-instructie die tabel AFDELING verwijderd in database AP.
 
 ```sql
     DROP TABLE `AP`.`AFDELING`;
  ```
-#### 2. Schrijf SQL-instructiesdie onderstaande tabellen creëren in database AP. De tabellenmoetenaan volgende vereisten voldoen:
+
+## 2. Schrijf SQL-instructiesdie onderstaande tabellen creëren in database AP. De tabellenmoetenaan volgende vereisten voldoen:
 
 ![Deel6_Oef2_1](/Index/Pictures/Deel2_Oefenbundel6_Oef2_1.PNG)
 
@@ -17,6 +18,7 @@
         `DUUR` varchar(2)
     );
 ```
+
 ![Deel6_Oef2_2](/Index/Pictures/Deel2_Oefenbundel6_Oef2_2.PNG)
 
 ```sql
@@ -34,7 +36,7 @@
 ```sql
     CREATE TABLE AP.tblMedewerkers
     (
-	`Nr` MEDIUMINT UNSIGNED  auto_increment,
+        `Nr` MEDIUMINT UNSIGNED  auto_increment,
         `Naam` VARCHAR (100),
         `Adres` VARCHAR (135),
         `AfdelingNr` SMALLINT UNSIGNED,
@@ -49,7 +51,7 @@
 ```sql
     CREATE TABLE tblGevolgdeOpleidingen
     (
-	`MedewerkerNr` MEDIUMINT UNSIGNED,
+        `MedewerkerNr` MEDIUMINT UNSIGNED,
         `Opleidingscode` VARCHAR (10),
         `Datum` DATE,
         `Voltooid` BIGINT UNSIGNED,
@@ -59,6 +61,6 @@
         FOREIGN KEY(`Opleidingscode`),
         REFERENCES `tblOpleidingen`(`Code`)
     );
-
 ```
+
 - [Terug](/Index/Oefeningen-Databases/Deel2.md)

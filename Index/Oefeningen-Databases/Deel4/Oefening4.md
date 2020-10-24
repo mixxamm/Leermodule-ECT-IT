@@ -1,6 +1,6 @@
 # Oefening 4
 
-#### 1.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 1.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Bereken van alle wedstrijden het maximale verschil tussen gewonnen en verloren sets en toon dit. Gebruik kolomhoofding “Maximaal” voor deze kolom.**
 
@@ -11,7 +11,7 @@
         wedstrijden;
 ```
 
-#### 2. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 2. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Bereken het totaal aantal gespeelde wedstrijden en toon dit.Gebruik kolomhoofding “Aantal” voor deze kolom.**
 
@@ -21,4 +21,5 @@
     FROM
         wedstrijden;
 ```
+
 - [Terug](/Index/Oefeningen-Databases/Deel4.md)

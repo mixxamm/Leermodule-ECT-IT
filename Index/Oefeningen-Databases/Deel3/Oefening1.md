@@ -1,8 +1,8 @@
 # Oefening 1
 
-#### 1. Schrijf de SQL-instructie die ervoor zorgt dat een database met naam “Learning” aangemaakt wordt. Zorg ervoor dat deze database alfanumerieke karakters in het formaat UT8 zal bewaren.De database zal definities van cursussen bevatten. Deze definities kunnen uitgerold worden naar andere databases voor specifieke klanten.
+## 1. Schrijf de SQL-instructie die ervoor zorgt dat een database met naam “Learning” aangemaakt wordt. Zorg ervoor dat deze database alfanumerieke karakters in het formaat UT8 zal bewaren.De database zal definities van cursussen bevatten. Deze definities kunnen uitgerold worden naar andere databases voor specifieke klanten.
 
-#### 2. Schrijf de SQL-instructie die ervoor zorgt dat in dedatabase “Learning” onderstaande tabel aangemaakt wordt. Hou rekening met karaktersets!
+## 2. Schrijf de SQL-instructie die ervoor zorgt dat in dedatabase “Learning” onderstaande tabel aangemaakt wordt. Hou rekening met karaktersets!
 
 ![Deel3_Oefenbundel6_Oefening2_1](/Index/Pictures/Deel3_Oefenbundel1_Oef2_1.PNG)
 
@@ -16,7 +16,7 @@
     );
 ```
 
-#### 3. Schrijf de SQL-instructie die ervoor zorgt dat in dedatabase “Learning” onderstaande tabel aangemaakt wordt.Hou rekening met karaktersets!
+## 3. Schrijf de SQL-instructie die ervoor zorgt dat in dedatabase “Learning” onderstaande tabel aangemaakt wordt.Hou rekening met karaktersets!
 
 ![Deel3_Oefenbundel6_Oefening_1](/Index/Pictures/Deel3_Oefenbundel1_Oef3_1.PNG)
 

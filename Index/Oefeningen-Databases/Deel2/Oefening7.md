@@ -1,12 +1,12 @@
 # Oefening 7
 
-#### 1.Schrijf de SQL-instructie die ervoor zorgt dat een database met naam “Planes” aangemaakt wordt.
+## 1.Schrijf de SQL-instructie die ervoor zorgt dat een database met naam “Planes” aangemaakt wordt.
 
 ```sql
     CREATE DATABASE `Planes`;
 ```
 
-#### 2.SchrijfSQL-instructiesdie onderstaande tabellen creëren in database Planes. De tabellenmoetenaan volgende vereisten voldoen:
+## 2.SchrijfSQL-instructiesdie onderstaande tabellen creëren in database Planes. De tabellenmoetenaan volgende vereisten voldoen:
 
 ![Deel6_Oef2_4](/Index/Pictures/Deel2_Oefenbundel7_Oef2_1.PNG)
 
@@ -18,6 +18,7 @@
         PRIMARY KEY(`Id`)
     ) AUTO_INCREMENT = 101;
 ```
+
 ![Deel6_Oef2_4](/Index/Pictures/Deel2_Oefenbundel7_Oef2_2.PNG)
 
 ```sql

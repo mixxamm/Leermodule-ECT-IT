@@ -1,6 +1,6 @@
 # Oefening 2
 
-#### 1. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 1. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon voor elke wedstrijd de spelersnummer, de teamnummer en de vermelding van het resultaat. Het resultaat toont de waarde “Gewonnen” als het aantal gewonnen sets groter is dan het aantal verloren sets is. Het resultaat toont de waarde “Verloren” als het aantal verloren sets groter is dan het aantal gewonnen sets. Eendraw is niet mogelijk in een tenniswedstrijd.Gebruik kolomhoofding “RESULTAAT” voor deze kolom.**
 
@@ -16,7 +16,7 @@
         `wedstrijden`;
 ```
 
-#### 2. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet
+## 2. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet
 
 **Toon voor elke speler de spelersnummer, het jaar van toetreding en de vermelding tot welke groep de speler behoort.**
 
@@ -38,7 +38,8 @@
     FROM
         `spelers`;
 ```
-#### 3. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet
+
+## 3. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet
 
 **Verfijn oefening 2 zodat de groep ‘Ouderen‘nog verder wordt onderverdeeld in ‘Ouderen wedstrijd’ en ‘Ouderen recreatief’.‘Ouderen wedstrijd’ is van toepassing als de speler een bondsnummer heeft.**
 
@@ -60,4 +61,5 @@ SELECT
 FROM
     `spelers`;
 ```
+
 - [Terug](/Index/Oefeningen-Databases/Deel4.md)

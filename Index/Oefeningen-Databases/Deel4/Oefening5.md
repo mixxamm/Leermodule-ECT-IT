@@ -1,6 +1,6 @@
 # Oefening 5
 
-#### 1. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 1. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon de volledige inhoud van tabel “tblconsoles”. Bouw je instructie op de meest efficiënte manier op!**
 
@@ -11,7 +11,7 @@
         `tblconsoles`;
 ```
 
-#### 2. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 2. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **oon de namen van alle uitgeverijen. Vervang hierbij eventuele spaties in de naam door een underscore. Gebruik kolomhoofding “Uitgever” voor deze kolom.**
 
@@ -22,7 +22,7 @@
         `tbluitgevers`;
 ```
 
-#### 3.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 3.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon de namen van alle game definities in kleine letters.**
 
@@ -33,7 +33,7 @@
         `tblgamedefinitions`;
 ```
 
-#### 4. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 4. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon de namen van alle game definities in kleine letters. Vervang hierbij streepjes en/of spaties in de naam door een underscore. Gebruik kolomhoofding"Game"voor deze kolom.**
 
@@ -48,7 +48,7 @@
         `tblgamedefinitions`;
 ```
 
-#### 5. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 5. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon de namen en releasedatums  van alle consoles. Maak daarbij de releasedatums op in het formaat “MM-DD-YYYY”.Gebruik kolomhoofding “Releasedatum” voor deze kolom.**
 
@@ -66,6 +66,7 @@ Zonder leftpadding (voorloopkarakters toevoegen):
     FROM
         `tblgamedefinitions`;
 ```
+
 Met leftpadding:
 
 ```sql
@@ -81,7 +82,7 @@ Met leftpadding:
         `tblgamedefinitions`;
 ```
 
-#### 6. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 6. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon de namenen hun lengte van alle game definities. Gebruik kolomhoofding “lengte” voor de kolom waarin de lengte getoond wordt.**
 
@@ -93,7 +94,7 @@ Met leftpadding:
         `tblgamedefinitions`;
 ```
 
-#### 7. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 7. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon de hoogste prijs van een game. Gebruik kolomhoofding “Hoogste_prijs” voor deze kolom.**
 
@@ -104,7 +105,7 @@ Met leftpadding:
         `tblgames`;
 ```
 
-#### 8.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 8.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon de totaalwaarde van alle games die verkocht worden. Gebruik kolomhoofding “max_omzet” voor deze kolom.**
 
@@ -115,7 +116,7 @@ Met leftpadding:
         `tblgames`;
 ```
 
-#### 9. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 9. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon alle kolommen van tabel “tblgames”. Je vervangt hierbij de waarde die refereert naar “New game” door “Nieuw”, de waarde die refereert naar “USED game” door “Occasie” voor kolom “gametypeid”. Gebruik kolomhoofding “gametype” voor deze kolom.**
 
@@ -134,7 +135,7 @@ Met leftpadding:
 
 ```
 
-#### 10. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 10. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon alle game definitiesin het formaat dat gebruikt wordt bij .csv-bestanden.Je plakt dus voor elke rij alle waarden aan elkaar. De waarden worden gescheiden door het karakter “;”.Gebruik kolomhoofding “csv” voor deze kolom.**
 

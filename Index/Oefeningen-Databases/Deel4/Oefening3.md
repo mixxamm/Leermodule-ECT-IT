@@ -1,6 +1,6 @@
 # Oefening 3
 
-#### 1. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 1. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon voor elke speler de spelersnummer, de naam en het telefoonnummer. Het telefoonnummer moet naar het formaat omgezet worden zoals in onderstaand voorbeeld met INTTELEFOON als kolomhoofding.**
 
@@ -19,7 +19,7 @@
         `spelers`;
 ```
 
-#### 2.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
+## 2.Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 
 **Toon voor elke speler de spelersnummer en de vermelding “jarig” of “niet jarig”. Voor de vermelding “jarig” of “niet jarig” gebruik je de kolomhoofding “FEEST”.**
 
