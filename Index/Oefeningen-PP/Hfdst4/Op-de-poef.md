@@ -16,7 +16,7 @@
             Console.WriteLine($"De poef staat op {bedrag1 + bedrag2 + bedrag3 + bedrag4} euro. \r\nVoer een bedrag in? ");
             double bedrag5 = double.Parse(Console.ReadLine());
 
-            double totaal = (bedrag1 + bedrag2 + bedrag3 + bedrag4 + bedrag5);
+            double totaal = bedrag1 + bedrag2 + bedrag3 + bedrag4 + bedrag5;
             double weken = Math.Ceiling(totaal / 10);
           
 
