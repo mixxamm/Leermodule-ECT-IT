@@ -11,6 +11,7 @@ In deze uitleg ga ik jou de makkelijkste manier uitleggen.
 Voor deze tutorial heb je 2 dingen nodig:
 
 - [Visual studio code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/downloads)
 - [Github desktop](https://desktop.github.com/)
 
 Download en installeer deze 2 programma's. (Ik veronderstel dat je de 1ste al gedownload hebt.)
