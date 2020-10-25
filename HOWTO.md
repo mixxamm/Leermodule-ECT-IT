@@ -15,8 +15,8 @@ Voor deze tutorial heb je 2 dingen nodig:
 
 Download en installeer deze 2 programma's. (Ik veronderstel dat je de 1ste al gedownload hebt.)
 
-Daarna is het belangerijk om op **GITHUB** een account aan te maken.
-######Ik hoop dat je weet hoe je dit moet doen. Lukt dit niet stuur mij dan even een berichtje op Discord.
+Daarna is het belangrijk om op **GITHUB** een account aan te maken.
+> Ik hoop dat je weet hoe je dit moet doen. Lukt dit niet stuur mij dan even een berichtje op Discord.
 
 Als dit gelukt is. Moet je de Github desktop openen en inloggen met jouw account.
 
@@ -34,6 +34,6 @@ Daarna zal Github desktop geopend worden en wordt het project lokaal gekloond.
 
 Als je nu klikt op openen met Visual studio code kan je aanpassing toevoegen en die dan committen via een pull request. Ik kijk die dan na en als die goed is zal ik ze toevoegen.
 
-###### Ja mag natuurlijk ook altijd je oplossing naar mij doorsturen als dat gemakkelijker is, maar dit bespaart mij veel werk!
+> Ja mag natuurlijk ook altijd je oplossing naar mij doorsturen als dat gemakkelijker is, maar dit bespaart mij veel werk!
 
 [Terug](/README.md)
