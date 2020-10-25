@@ -206,8 +206,6 @@
             violet,
             wit,
             grijs
-            
-
         }
         static void Main(string[] args)
         {
@@ -231,15 +229,8 @@
 
             double resultaat = ((ring1 * 10) + ring2) * Math.Pow(10, ring3);
             Console.WriteLine($"Deze weerstand heeft een waarde van {resultaat} Ohm");
-           
-
-            
         }
-    }
-}
-    }
-}
-```
+
 
 
 [Terug](../Hfdst5.md)
