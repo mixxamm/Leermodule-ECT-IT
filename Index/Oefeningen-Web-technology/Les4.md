@@ -1,5 +1,7 @@
 # Oplossing 1
-# Page 1 (html)
+
+## Page 1 (html)
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -56,7 +58,7 @@
 
 ```
 
-# Page 1 (css)
+## Page 1 (css)
 
 ```css
 body
@@ -128,7 +130,9 @@ a:visited
 }
 
 ```
-# Page 2 (html)
+
+## Page 2 (html)
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -142,10 +146,14 @@ a:visited
 
 </html>
 ```
-# Page 2 (css)
+
+## Page 2 (css)
+
 ```css
 body
 {
     background-color: orange;
 }
 ```
+
+[Terug](../Vakken/Web-technology.md)
