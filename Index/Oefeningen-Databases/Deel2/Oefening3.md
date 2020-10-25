@@ -1,6 +1,6 @@
 # Oefening 3
 
-## 1. We bewaren in tabel “tblGames” alle gekende gamesinclusief hun prijs. De prijs van games wordtuitgedrukt in euro.Welk datatype zal je gebruiken voor deprijs? Motiveer je antwoord!
+## 1. We bewaren in tabel “tblGames” alle gekende games inclusief hun prijs. De prijs van games wordtuitgedrukt in euro.Welk datatype zal je gebruiken voor deprijs? Motiveer je antwoord!
 
 > We opterenhier voorhet datatypeDECIMAL(5,2). De prijs van een enkel game bedraagt normaal gezien niet meer dan € 100, echter sommige bundels wel. We voorzien daarom 5 digits waarvan 2 na de komma. Zo blijven er 3 digits over waarmee we een maximumprijs van € 999,99 kunnen bewaren.
 
