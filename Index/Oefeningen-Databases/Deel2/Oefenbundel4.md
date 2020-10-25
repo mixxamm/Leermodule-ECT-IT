@@ -16,4 +16,4 @@
 
 > We kunnen ook hier de lijst met steden en gemeenten van bpost gebruiken. Door de lengte te bepalen van elke postcode kunnen we terugvinden dat elke postcode uit 4 cijfers bestaat. We opteren bijgevolg voor datatype CHAR(4).
 
-- [Terug](/Index/Oefeningen-Databases/Deel2.md)
+- [Terug](../Deel2.md)

@@ -34,4 +34,4 @@
     );
 ```
 
-- [Terug](/Index/Oefeningen-Databases/Deel3.md)
+- [Terug](../Deel3.md)

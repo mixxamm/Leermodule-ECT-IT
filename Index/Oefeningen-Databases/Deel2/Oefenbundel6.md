@@ -63,4 +63,4 @@
     );
 ```
 
-- [Terug](/Index/Oefeningen-Databases/Deel2.md)
+- [Terug](../Deel2.md)

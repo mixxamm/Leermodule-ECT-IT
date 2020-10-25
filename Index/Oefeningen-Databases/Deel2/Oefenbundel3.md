@@ -12,4 +12,4 @@
 
 > Een percentage wordt altijd bewaard als een kommagetal.Geef je 10% korting wordt dit 0,1. We opteren hier dus voor het datatypeDECIMAL(3,2).
 
-- [Terug](/Index/Oefeningen-Databases/Deel2.md)
+- [Terug](../Deel2.md)

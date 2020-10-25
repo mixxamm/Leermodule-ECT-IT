@@ -20,4 +20,4 @@ Onderzoek hiervoor hoe je een eenvoudige filterconditie kan samenstellen met beh
         YEAR(`DATUM`) = 2020;
 ```
 
-- [Terug](/Index/Oefeningen-Databases/Deel3.md)
+- [Terug](../Deel3.md)

@@ -73,4 +73,4 @@ Opgelet! Deze kolom moet toegevoegd worden tussen kolommen “BEDRAG” en de hi
     UNIQUE(`NAAM`, `STRAAT`, `HUISNR`, `POSTCODE`);
 ```
 
-- [Terug](/Index/Oefeningen-Databases/Deel3.md)
+- [Terug](../Deel3.md)

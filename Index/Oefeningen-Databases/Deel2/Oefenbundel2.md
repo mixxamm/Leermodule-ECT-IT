@@ -16,4 +16,4 @@
 
 > We opteren hier voor het datatype BIGINT UNSIGNED. Ook hier hebben we geen tekenbit nodig omdat er nooit negatieve getallen in mogen kunnen. Door te opteren voor een BIGINT kunnen we het maximaal mogelijk aantal lijnen definiëren. Aangezien Amazon wereldwijd producten verkoopt is dat geen overbodige luxe!
 
-- [Terug](/Index/Oefeningen-Databases/Deel2.md)
+- [Terug](../Deel2.md)
