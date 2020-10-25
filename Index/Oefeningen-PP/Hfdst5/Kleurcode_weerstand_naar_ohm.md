@@ -10,6 +10,8 @@
             string ringTwee = Console.ReadLine();
             string ringDrie = Console.ReadLine();
 
+            //RING1
+
             switch (ringEen)
             {
                 case "zwart":
@@ -54,6 +56,7 @@
 
             }
 
+            //RING2
             switch (ringTwee)
             {
                 case "zwart":
@@ -97,6 +100,8 @@
                     break;
 
             }
+
+            //RING3
             switch (ringDrie)
             {
                 case "zwart":
