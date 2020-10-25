@@ -1,4 +1,4 @@
-# Oefening 3
+# Oefenbundel 3
 
 ## 1. We bewaren in tabel “tblGames” alle gekende games inclusief hun prijs. De prijs van games wordtuitgedrukt in euro.Welk datatype zal je gebruiken voor deprijs? Motiveer je antwoord!
 

@@ -1,4 +1,4 @@
-# Oefening 3
+# Oefenbundel 3
 
 ## 1. Om de oefeningen in deze bundel te maken gaan we een duplicaat maken van de database “Tennis”.
 

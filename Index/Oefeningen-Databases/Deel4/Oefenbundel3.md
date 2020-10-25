@@ -1,4 +1,4 @@
-# Oefening 3
+# Oefenbundel 3
 
 ## 1. Schrijf de SQL-instructie die in de volgende informatiebehoefte voorziet.
 

@@ -1,4 +1,4 @@
-# Oefening 6
+# Oefenbundel 6
 
 ## 1. Schrijfde SQL-instructie die tabel AFDELING verwijderd in database AP.
 

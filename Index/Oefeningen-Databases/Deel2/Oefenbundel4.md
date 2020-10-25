@@ -1,4 +1,4 @@
-# Oefening 4
+# Oefenbundel 4
 
 ## 1. We bewaren in tabel “tblPersons” alle inwoners van België. Een van de gegevensvelden is de straat van de woonplaats van de inwoners.Welk datatype zal je gebruiken voor straat? Motiveer je antwoord!
 

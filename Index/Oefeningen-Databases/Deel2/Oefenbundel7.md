@@ -1,4 +1,4 @@
-# Oefening 7
+# Oefenbundel 7
 
 ## 1.Schrijf de SQL-instructie die ervoor zorgt dat een database met naam “Planes” aangemaakt wordt.
 

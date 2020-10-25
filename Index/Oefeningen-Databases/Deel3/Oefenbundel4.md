@@ -1,4 +1,4 @@
-# Oefening 4
+# Oefenbundel 4
 
 ## 1. Om de oefeningen in deze bundel te maken werken we verder met de database “Tennis3”.
 

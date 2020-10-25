@@ -1,4 +1,4 @@
-# Oefening 5
+# Oefenbundel 5
 
 ## 1. Schrijf de SQL-instructie die een nieuwe database “AP” aanmaakt.
 

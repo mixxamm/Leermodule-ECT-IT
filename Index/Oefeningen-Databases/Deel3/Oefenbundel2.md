@@ -1,4 +1,4 @@
-# Oefening 2
+# Oefenbundel 2
 
 ## 1. Om de oefeningen in deze bundel te maken gaan we een duplicaat maken van de database “Tennis”.
 a. Kopieer de inhoud van het SQL-script van de database “Tennis”.

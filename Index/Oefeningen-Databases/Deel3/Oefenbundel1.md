@@ -1,4 +1,4 @@
-# Oefening 1
+# Oefenbundel 1
 
 ## 1. Schrijf de SQL-instructie die ervoor zorgt dat een database met naam “Learning” aangemaakt wordt. Zorg ervoor dat deze database alfanumerieke karakters in het formaat UT8 zal bewaren.De database zal definities van cursussen bevatten. Deze definities kunnen uitgerold worden naar andere databases voor specifieke klanten.
 

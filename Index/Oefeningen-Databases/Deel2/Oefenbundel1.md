@@ -1,4 +1,4 @@
-# Oefening 1
+# Oefenbundel 1
 
 ## Database aanmaken en verwijderen
 

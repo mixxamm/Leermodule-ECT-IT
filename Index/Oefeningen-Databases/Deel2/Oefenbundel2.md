@@ -1,4 +1,4 @@
-# Oefening 2
+# Oefenbundel 2
 
 ## 1. We bewaren in tabel “tblGameGenres” alle gekende genres. Elk genre krijgt een uniekvolgnummer, startend vanaf 1,die bewaard wordt in kolom “Id”. Er zijn een 60-tal genres gedefinieerd. Welk datatype zal je gebruiken voor deze kolom? Motiveer je antwoord
 
