@@ -25,3 +25,5 @@ FROM
 WHERE
     `EIND_DATUM` IS NOT NULL;
 ```
+
+[Terug](../Deel5.md)

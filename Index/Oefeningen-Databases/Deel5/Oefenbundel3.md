@@ -39,3 +39,5 @@ WHERE
     `WEDSTRIJDNR` BETWEEN '5' AND '10'
         AND `SPELERSNR` NOT BETWEEN '8' AND '27';
 ```
+
+[Terug](../Deel5.md)

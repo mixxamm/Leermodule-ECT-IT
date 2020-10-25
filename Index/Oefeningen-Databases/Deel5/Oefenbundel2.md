@@ -66,3 +66,5 @@ FROM
 WHERE
     YEAR(`GEB_DATUM`) IN (1956 , 1963, 1970);
 ```
+
+[Terug](../Deel5.md)

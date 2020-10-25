@@ -113,4 +113,4 @@ WHERE
     `GESLACHT` = 'v'
         AND `PLAATS` <> 'Den Haag';
 ```
-
+[Terug](../Deel5.md)

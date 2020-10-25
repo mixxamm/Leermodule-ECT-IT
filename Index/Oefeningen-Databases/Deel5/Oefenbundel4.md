@@ -51,3 +51,4 @@ FROM
 WHERE
     `NAAM` LIKE '_e%e_';
 ```
+[Terug](../Deel5.md)
