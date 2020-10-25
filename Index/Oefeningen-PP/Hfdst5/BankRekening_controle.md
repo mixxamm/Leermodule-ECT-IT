@@ -1,7 +1,7 @@
 # Oplossing 1
 
 ```csharp
-     Console.Write("Geef de eerste 3 getallen: ");
+            Console.Write("Geef de eerste 3 getallen: ");
             string eerste = Console.ReadLine();
 
             Console.Write("Volgende 7 getallen: ");
